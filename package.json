@@ -1,0 +1,16 @@
+{
+  "name": "hiring-portal",
+  "version": "1.0.0",
+  "description": "hiting portal for employers and job seekers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hiring",
+    "jobs",
+    "placement"
+  ],
+  "author": "vikramaditya singh",
+  "license": "ISC"
+}
